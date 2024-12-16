@@ -3,5 +3,5 @@ You are good!
 Today is a nice day.
 Hello GIT!
 I love you more than I can say.master test
-Hot_FIX.
-
+Hot_FIX.hot-fix test
+hot-fix
